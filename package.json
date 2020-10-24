@@ -1,0 +1,23 @@
+{
+  "name": "hometown-quilt-studio",
+  "version": "1.0.0",
+  "description": "moms website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdlambright/hometown-quilt-studio.git"
+  },
+  "author": "josh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdlambright/hometown-quilt-studio/issues"
+  },
+  "homepage": "https://github.com/jdlambright/hometown-quilt-studio#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
